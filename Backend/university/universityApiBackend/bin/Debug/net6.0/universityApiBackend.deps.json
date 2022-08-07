@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "UniversityApiBackend/1.0.0": {
+      "universityApiBackend/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.7",
@@ -14,7 +14,7 @@
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
-          "UniversityApiBackend.dll": {}
+          "universityApiBackend.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -2259,7 +2259,7 @@
     }
   },
   "libraries": {
-    "UniversityApiBackend/1.0.0": {
+    "universityApiBackend/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

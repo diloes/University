@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("UniversityApiBackend")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("universityApiBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("UniversityApiBackend")]
-[assembly: System.Reflection.AssemblyTitleAttribute("UniversityApiBackend")]
+[assembly: System.Reflection.AssemblyProductAttribute("universityApiBackend")]
+[assembly: System.Reflection.AssemblyTitleAttribute("universityApiBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
